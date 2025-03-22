@@ -25,7 +25,4 @@ A simple Python implementation to solve the **N-Queens Problem** using **backtra
 ## 📌 Example (GUI Preview)
 When running the program, a window will open showing the chessboard. Each valid solution is displayed step-by-step, with `Q` representing a queen's placement. 
 
-Enjoy solving the N-Queens challenge visually! 🚀♟️🎨
-
-
-
+Enjoy solving the N-Queens challenge visually!✨
